@@ -1,3 +1,0 @@
-name :Hi
-Email :pk8570873@gmail.com
-Password :okamtokae
